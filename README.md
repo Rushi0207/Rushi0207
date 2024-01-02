@@ -13,16 +13,13 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi0207&label=Profile%20views&color=0e75b6&style=flat" alt="rushi0207" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushi0207" alt="rushi0207" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rushike020" target="blank"><img src="https://img.shields.io/twitter/follow/rushike020?logo=twitter&style=for-the-badge" alt="rushike020" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rushike020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushike020" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rushikesh-phadtare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh-phadtare" height="30" width="40" /></a>
+<a href="https://instagram.com/rushi_02_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushi_02_07" height="30" width="40" /></a>
 <a href="https://hashnode.com/@rushi27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rushi27" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rushi0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rushi0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rushikeshphadta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushikeshphadta1" height="30" width="40" /></a>
