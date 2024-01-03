@@ -63,8 +63,8 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi0207&show_icons=true&locale=en&layout=compact" alt="rushi0207" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi0207&show_icons=true&locale=en&layout=compact&theme=dark" alt="rushi0207" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi0207&show_icons=true&locale=en" alt="rushi0207" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi0207&show_icons=true&locale=en&theme=dark" alt="rushi0207" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi0207&" alt="rushi0207" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi0207&theme=dark" alt="rushi0207" /></p>
