@@ -74,7 +74,15 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a> 
-</p> | Content Cell  |
+</p> | <h3 align="left">Backend:</h3>
+<p align="left"> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
+</p>l  |
 | Content Cell  | Content Cell  |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi0207&show_icons=true&locale=en&layout=compact&theme=dark" alt="rushi0207" /></p>
