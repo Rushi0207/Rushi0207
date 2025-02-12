@@ -62,9 +62,9 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
-#### Frontend:
+**Frontend:**
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -72,10 +72,12 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
-  <!-- Add Next.js if applicable -->
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  </a>
 </p>
 
-#### Backend:
+**Backend:**
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
@@ -85,7 +87,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
   </a>
 </p>
 
-#### Database:
+**Database:**
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -93,10 +95,12 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <!-- Add PostgreSQL if you have experience -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
 </p>
 
-#### Tools:
+**Tools:**
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -105,6 +109,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, secure, and i
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
