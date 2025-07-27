@@ -136,7 +136,7 @@ _Feb 2025_
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushi0207&theme=github-compact&hide_border=true&area=true&color=ff1744&line=ff1744&point=ff1744" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushi0207&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
