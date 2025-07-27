@@ -138,12 +138,6 @@ _Feb 2025_
 <p align="center">
   💬 <strong>Let's collaborate!</strong> Whether you're interested in hiring, partnering on projects, or just want to chat about tech – I'm always open to connecting with fellow developers and innovators.
 </p>
-
-<p align="center">
-  📧 <strong>Email:</strong> <a href="mailto:rushikeshphadtare2003@gmail.com">rushikeshphadtare2003@gmail.com</a><br>
-  🌐 <strong>Portfolio:</strong> <a href="https://rushikeshphadtare.vercel.app/">rushikeshphadtare.vercel.app</a>
-</p>
-
 ---
 
 ⭐ _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
