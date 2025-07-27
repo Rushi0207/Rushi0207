@@ -83,19 +83,27 @@ A gamified stock market learning platform with blog and leaderboard.
 
 ---
 
-## 🧩 Experience
+## 💼 Experience
 
-**Full Stack Developer Intern** – Ttretta Pvt Ltd (Remote)  
+### 🔹 Full Stack Developer Intern – Ttretta Pvt Ltd, Mumbai (Remote)
+
 _Mar 2025 – Present_
 
-- Created and optimized secure Flask APIs with JWT
-- Integrated Gemini API and FAISS for AI chatbot
-- Developed React dashboards for financial insights
+- Developed secure Flask-based REST APIs for user authentication, financial metric calculations, and chatbot integration, following JWT and role-based access protocols
+- Engineered backend logic for a real-time Financial Health Dashboard, computing net worth, liquidity ratios, and personalized investment scores by ingesting and processing Excel-based datasets
+- Designed and deployed a document-aware AI chatbot using Gemini API, LangChain, FAISS, and HuggingFace embeddings for semantic search and contextual Q&A
+- Built a complete full-stack module for structured feedback and recommendations, connected to an Excel-based backend database
+- Created performance logs, profiling utilities, and error tracebacks for production debugging and system observability
+- Collaborated with frontend engineers (React.js + Tailwind CSS) to deliver responsive and modular dashboard interfaces
+- Refactored legacy login logic to use secure token management, improving system reliability and maintainability
 
-**Research Contributor** – IIT Bombay (CET)  
+### 🔹 Research Participation – Centre for Educational Technology, IIT Bombay
+
 _Feb 2025_
 
-- Worked on educational research in SSMR and collaborative learning systems
+- Participated in a funded research study on Socially Shared Metacognitive Regulation (SSMR) in collaborative design learning
+- Contributed to design ideation and analysis of educational tools aimed at improving group cognition and learning in resource-constrained contexts
+- Gained exposure to qualitative analysis techniques and collaborative learning theory
 
 ---
 
