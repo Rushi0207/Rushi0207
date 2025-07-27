@@ -122,32 +122,17 @@ _Feb 2025_
 
 ## � Connecto with Me
 
-<div align="center">
-  <a href="https://twitter.com/rushike020" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rushike020?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</div>
+<div align="justify">
 
-<div align="center">
-  <a href="https://linkedin.com/in/rushikesh-phadtare" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/rushi_02_07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hashnode.com/@rushi27" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/rushi0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/rushikeshphadta1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-phadtare)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rushike020)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rushi_02_07)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rushi27)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rushi0)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rushikeshphadta1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rushikeshphadtare.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshphadtare2003@gmail.com)
+
 </div>
 
 <p align="center">
