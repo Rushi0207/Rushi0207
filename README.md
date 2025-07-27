@@ -106,16 +106,24 @@ _Feb 2025_
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushi0207&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi0207&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rushi0207&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi0207&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushi0207&theme=radical" alt="Streak Stats" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushi0207&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushi0207&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushi0207&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
