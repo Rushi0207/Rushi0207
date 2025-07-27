@@ -39,7 +39,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -50,8 +49,12 @@
 
 ### 🔹 [Lightweight Feedback System](https://github.com/Rushi0207/lightweight-feedback-system)
 
-An internal feedback tool with real-time features, role-based access, email verification, sentiment analysis, and smart tagging.  
-**Stack**: FastAPI, SQLAlchemy, React, Redux Toolkit, Tailwind CSS, SQLite, Docker
+Internal enterprise tool to streamline feedback between managers and employees.
+
+- Developed modular backend using FastAPI with SQLAlchemy ORM and JWT security
+- Designed smart tagging and sentiment analysis system to classify feedback
+- Integrated email verification (SMTP) and Redux-based UI with persistent sessions  
+  **Stack**: FastAPI, React, SQLite, Docker
 
 ### 🔹 [AI-Powered NLP Assistant](https://github.com/Rushi0207/arogo-ai-assistant)
 
